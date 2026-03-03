@@ -1,7 +1,7 @@
 ---
 Identified:
-Location Found: [[The Crucible]]
-Current Location:[[Cosimo]]
+Location Found: "[[The Crucible]]"
+Current Location: "[[Cosimo]]"
 ---
 # Item Details
 ## The Winter of the Dragon
