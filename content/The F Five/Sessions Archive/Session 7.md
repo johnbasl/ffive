@@ -1,0 +1,145 @@
+- Getting ready to find the magic idol
+	- We've been given healing potions by someone working for the baron
+	- We've been given a detailed map
+	- We've been given some magic glasses which they think are necessary to be able to find the tower
+	- The tower used to be run by a group of wizards
+		- The wizards have collected powerful magic items and keep them stored in the tower.
+- We wake up in the morning and the Baron has left us some horses
+- We camp on the road on the first night
+	- During watch
+		- Mostly uneventful
+		- Forber catches someone sort of watching us and then just scurries off after noticing Forber seeing him
+- We arrive at the area where the tower is
+	- Forber puts on the glasses
+	- After exploring a bit, he sees the tower
+- The Tower
+	- It is wonky looking
+	- Quite tall
+	- Very juxtaposed against calm environment otherwise
+	- Tower surrounded by the fog in a way that is incongruous with the calm, nice day and the calm surrounding forest
+	- To us, it looks like a very forested, untouched area
+		- Upon careful looking
+			- To me, it seems to be an illusion is covering something
+			- Familiar based on background
+- Forber and Wang are going to sneak up close to the tower
+	- Fober has cast his spell that let's him communicate mentally with me
+	- Me, Wang, and Thranley are tying up the horses and waiting
+- We all approach the tower
+	- It takes awhile because there is some spell causing fear
+	- We just see a bunch of stones
+		- Forber sees a dark stone tower
+			- There's an arch with some ruins
+			- Moss covered
+			- Plinth in the middle
+			- Sunlight coming in but darkened by fog
+			- There plinth has a fist with a gem in hand
+- We all step forward
+	- Forber: Run into an invisible barrier
+	- We can enter
+	- Forber takes off the glasses
+		- he can then come in the tower
+		- After entering the tower, Forber can take the glasses of and see the room 
+	- On the wall
+		- Glyphs
+			- Diamond
+			- Knight
+			- Hand
+			- Wyvern/Dragon
+	- We touch the hand symbols and the hand opens and the gem falls
+		- The walls seal sealing us
+		- A hole in the ceiling 15ft up
+	- I toss Wang up into the next level
+- Second Floor
+	- The room is open to the environment with a floating ceiling
+	- A set of 3 statues of demons engaged in combat
+		- One with a long snout with a flail with a gem
+		- The first demon is being rushed by another bald one with snarling fangs and it has a bright orange and red colored flame
+		- Third demon has three eyes and a single giant
+			- Has a triple forked trident with a space for gem
+	- Twelve pointed star on the floor
+	- We all make our way up by climbing
+	- We place the gem in the slot and the demons move closer together and they are each holding up the gem
+	- We shine light on each gem
+		- Only the yellow on responds and gets very bright
+		- Fire on the red gem and it pings to life
+		- Water on the blue gem and pings to life
+	- The twelve pointed star comes to life
+		- It's a teleportation portal
+	- We all hold hands and jump into the teleportation portal
+- Third room
+	- Very hot and dry
+	- Room is twice as wide
+	- Big circular glowing platform
+	- Grass on the ground around us
+	- Lifelike scenes/moving paintings on the wall
+		- Animated
+		- Skeletons
+		- Giant skeleton pulling a giant hammer
+		- Black sky above us with pillars of fire in the distance
+	- We notice movement on the wall and we see a great flaming stead
+		- Charging directly towards us
+		- The bard investigates 
+			- It could be hells
+			- It could be the plane of fire
+		- Lorian sees something on the ceiling
+			- Something is carved on the ceiling
+				- Letters
+					- T, N, E, M, H, S, I, R, U, O, N
+		- The flaming stead hits the wall and is trying to get into the room
+			- Starts circling
+		- I feed the horse and the horse calms down
+			- The nightmare scene crumbles
+		- The room starts to change and the room becomes calm and peaceful
+			- The walls seem to basically melt and the horse becomes white and is a unicorn
+		- The new scene is an eden like garden
+	- Door with a dragon door knob
+- Fourth Room
+	- Door opens in
+	- Another room
+		- Huge room
+	- Large clear cube of ice
+	- Room is freezing cold
+	- We are on a 15ft high platform
+	- The floor seems to be ice
+	- Columns sticking up out of the floor
+	- I jump across the one of the platforms
+		- There is a joypad like lever
+	- We kill a couple of gelatinous cubes
+	- When frozen, they die easily
+	- One has the key in it
+	- At the top of the cliff
+		- Another twelve sided start that looks like a portal
+			- Has a keyhole
+		- Portal springs to life
+- Fifth room
+	- Well-lit gray room
+	- 40square feet across
+	- 15ft high ceiling
+	- 6 doors in the center of the room
+		- Numbered 1-6
+			- Letters on the stone back of each door
+				- 1 - N
+				- 2 - E
+				- 3 - E
+				- 4 - _
+				- 5 - V
+				- 6 - S
+	- Another door behind us against the wall
+		- When we open two doors that equal total of 7
+			- A new space opens behind them
+				- There's a boulder field back there
+- Sixth Room
+	- In a huge space that looks like a large battlefield
+		- No ceiling
+		- Open clear starry night
+		- Small stone plinth
+		- large golden key
+		- Elevated platform far away that is glowing
+	- We pick up the key and it causes a beholder kin to appear
+		- We mostly just run and get out of the room
+		- Thrainly goes backwards through the previous
+- Seventh Room
+	- I roll a nat 20 and see a string ZZZZZ's
+		- We are contemplating whether to take a rest
+		- We're going to long rest
+			- Then we know to count the sheep

@@ -1,0 +1,16 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("The F Five/Loot")
+    order:
+      - file.name
+      - Identified
+      - Location Found
+      - Current Location

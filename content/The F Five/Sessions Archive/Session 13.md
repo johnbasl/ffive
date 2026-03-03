@@ -1,0 +1,19 @@
+- I missed it
+- We orchestrated a heist
+	- Forber got fucked up by a gem
+	- Stole the gem
+- Gem is urging Forber away from our task
+	- And yells at him when he touches
+	- resonance all the time
+## En route to Crucible
+- A few days into the travel
+- Run across three people dressed as guards
+	- We invited them to camp
+	- They weren't in good shape
+- One of the guards died
+	- Killed by a figure that pulled her heart out through her chest
+	- Thrainly drank her blood and buried her
+- We continued on
+	- We came to a fork in the road
+		- We decided to go Foghelm
+- We are investigating the curse of Foghelm

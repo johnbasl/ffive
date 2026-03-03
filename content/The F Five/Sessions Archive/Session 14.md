@@ -1,0 +1,250 @@
+# Location: Foghelm
+## Travel Details
+
+## Location Details
+## Basic details of the area
+- Farmsteads
+- People seem unwilling to talk to us
+	- Aura of distinterest/wariness
+- Wooden palisade around the main town
+	- Doors are closed
+- Population 300-400
+- Inn
+- Blacksmith
+	- Closed
+## Ruins
+- 
+# Tasks/Goals/Mission
+- Trying to solve the "curse of Foghelm"
+	- 
+	- 
+
+# Loot
+- Orc coin
+	- Made of the same material as their armo
+
+# Encounter Details
+## Meeting with the innkeeper
+- Thrainly takes the lead on talking with the person behind the gate
+- Gate opens
+- Mayor [[John Pickerson]]
+	- Also the inkeeper
+- Thrainly invites us to the Inn and gets us free drinks
+- Some people drinking
+- Tells us about [[Gabriela Foghelm]]
+	- Leader of the town guard
+		- 40s
+		- Dark grey hair
+	- Been trying to figure out what it is and how to kill it
+	- People are dying at night in their beds or where they are standing
+- [[Alcazari]] is convinced that it is a banshee
+	- Agrees to spend time building a salt circle around the town
+- Two hypotheses
+	- Related to the ruins
+		- Kosimo and Lorian go to track this down
+	- Related to the death of the first person to die (Clarice)
+		- Manchineel, Thrainly, and Merkin (and Fleshy)
+## Investigating the Ruins
+- Kosimo and Lorian
+- Exploring a trap door found in the inn
+	- They aren't finding much via their investigation
+- Chatting with Maurice in his room
+	- [[Maurice  of Foghelm]]
+		- There's a body snatcher
+		- Killing the guards first
+		- Conspiracy about the deaths
+- Outside the ruins
+	- Lorian determines 
+		- Ruins are about 700 years old
+		- Wreckage is old
+		- Militaristic
+		- Built quickly
+		- Nothing unusual
+## Investigating Taran and Clarice
+- Taran is skeptical about letting us in
+	- Boarded up in his house
+- Questioning Taran
+	- What happened at the Harvest Festival?
+	- Taran's suspicions about the curse
+		- There's a kid that cursed them
+		- The mayor's kid: [[Arty of Foghelm]]
+			- Known trouble maker
+			- Been dabbling with black magic
+			- He's mad at the guard
+## Investigating the Mayor's Son
+- Talking to the mayor about his son
+	- He says his son is just a typical 14 year old
+	- Likes to draw pentagrams on things
+		- Pretends to be Onyx Crimson Bloodrain
+	- Seems to be telling the truth
+	- Warns us to be nice to him
+- Talking with Arty
+	- Very emo looking teen
+	- Demands that we leave and wants his privacy
+	- Trying to contact ancient powers
+		- Drew pentagrams on stuff
+		- Killed a chicken
+	- During harvest festival
+		- Hanging out with Eliza
+			- His crush
+				- Raven Darkford
+				- Also wants to be a wizard
+	- Thrainly reveals they are a dhampir and the kid thinks it is so cool and starts revealing things
+		- Kid pulls out a leatherbound journal
+		- Forber investigates
+			-  It is nonsense
+- Talking with Eliza [[Raven Darkfoot]]
+	- Has died her hair black
+	- Also has a spellbook
+		- Also seems to be nonsense
+- We send the kids to bother Alcazari
+## Investigating Clarice's Farm
+- Place is decorated with mourning materials
+- Discussion with Jackson (her husband)
+	- Seems very tired and very sad
+	- We start asking about harvest fest and Clarice
+	- What happened at the harvest festival
+		- Gather around
+		- Feast
+		- joy
+		- laughter
+- We discover nothing
+## Evening in Town
+- Walking back to the town
+- Lorian and Thrainly notice a large orc dressed in dark armor
+	- Another figure appears dressed the same
+		- Then they blink out of existence
+- Kosimo detects magic
+	- Senses illusion magic
+		- Strong illusion magic where the orcs were
+- Guards have gathered at the inn in the town hall area
+	- They are very nervous
+- Alcazari is there and pissed at us
+	- Kosimo is going to try to diffuse the situation and sends them to talk to Thrainly
+		- He's going to talk to Alcazari about helping with the orcs
+- Alcazari casts a spell around each of the guards
+## Night time
+- We stay up at night ready to protect the guards
+- It's around 1am
+- Suddenly a dark figure appears
+	- Armor of this figure seems to absorb the light
+	- Massive orc rams their hand into Taran's chest
+		- Whispers something to Taran
+		- Orc says something else and then pulls the heart out
+			- Thrainly and Merkin hear the second thing said
+				- "you failed the test"
+			- Lorian hears a bit of the first bit
+				- something something revenge something something courage
+- Merkin tries to heal Taran and causes his heart to regrow with a heal
+	- Orc is furious
+- Me and Lorian both hit the orc
+	- Causes them to bleed
+	- Dark viscous orc blood
+- Kosimo detects what's on his mind
+	- Surface level thought of "vengeance for the innocent"
+- The orc goes invisible and seems to run
+	- I swing but hit nothing
+- Kosimo is going to interrogate Taran about the thoughts of the Orc
+	- Kosimo asks about the test
+- Kosimo goes to talk to Gabriela
+	- Who did you kill?
+		- 6 months ago killed some orcs
+		- Marauding party
+			- Kidnapped a kid
+		- Details
+			- Got word that a local band of orcs were marauding
+			- War party
+			- Stealing shit and killing people
+			- Half day travel outside the town
+				- Pulls up a local map
+				- About an hour and half outside town
+- After the fight we yell at Alcazari about the failure of her spell
+	- She casts a spell on Merkin
+		- Sends him to a plane of fire
+		- He comes back singing
+	- Alcazari educated guesses
+		- She's asking questions
+			- Trying to narrow in on what it might be
+			- Probably popping in and out of ethereal plane
+				- Might be using a rune in armor
+				- Pretty sophisticated control
+	- During the night we see a darkened orc figure appears in the room
+		- It sees Kosimo and Lorian
+		- It looks annoyed and then disappears again
+- We tell Taran they can become a cleric and join our guild moving to Ingraham
+## Morning after
+### Orc Massacre Location
+- Find the location where the fight took place
+- Kosimo finds the remains of a fire
+	- From there we spread out discover a camp
+	- Covered with grass
+	- Start finding bodies and skeletons
+		- 6 or 7 bodies
+			- Find some evidence
+				- Some bodies are quite small
+				- Two or three are much smaller
+				- Also find an old cart
+					- Rotting supplies
+						- Knives
+						- Bowls
+						- Cutlery
+						- Toy top
+	- Together we piece together what Orcan burial rights look like
+		- And, we honor the dead
+			- Feels good to have honored the dead
+	- We catch someone from the shadows watching us
+		- Kosimo tries to talk to them and they disappear
+### Back in Town
+- Interrogating: mayor, maurice, taran, gabriella
+	- Lorian: Gabriella
+		- Asks what happened with the orcs
+		- Gabriella says they were a threat and so they killed them
+		- Asks about whether there were orc children
+			- Gabriella says she has no idea if there were kids in the heart of battle
+			- Says there are no good orcs
+		- Lorian can't detect if they are lying
+	- Thrainly: Mayor
+		- Nothing from the mayor
+		- They seem not to know anything
+	- Kosimo: Maurice
+		- Convinces Maurice to a spy in our guild
+	- Merkin: Taran
+		- Merkin ties up Taran
+		- Asks about the orc caravan
+			- Killed a bunch of people "probably"
+		- Asks if the orcs attacked first
+			- Taran breaks down sobbing
+			- Babbles out that they didn't seem scary and it was kids but Gabriella made them do it
+- Reconvene
+	- Talk to the mayor and try to convince him to bring in external judge/jury to adjudicate the matter
+		- Kosimo lays it out
+			- Evidence of burial
+			- Confession from Taran
+		- Mayor wants to talk to Taran
+			- Taran confesses to the mayor
+		- Community court
+## Trial of Gabriella
+- Gabriella makes some impassioned pleas
+- Taran gives an account
+- Kosimo 
+	- Relays what he learned about the orc village
+	- and what he knows about the orcs taking revenge
+- The Town sentences her to be shipped off the magistrate for punishment
+	- Debate about what to do with Taran
+		- Sent along with her. 
+- We agree to accompany them
+- On the way out Alcazari says something nice to the kids
+## Travel to the Magistrate
+- At night at camp
+	- Lorian sees three figures pop into exist on the edge of camp
+		- All in light absorbing armor
+	- One inclines their head and then they disappear
+- Wake up and the prisoners are alive
+- On top of the fire is a black disk
+	- Made of a non-reflective medal
+	- Has a symbol/rune on it
+	- Looks like what the orcs were wearing
+	- Ask Alcazari what it is
+		- She holds it out and says its a coin
+- Leave the prisoners over the magistrate
+- 

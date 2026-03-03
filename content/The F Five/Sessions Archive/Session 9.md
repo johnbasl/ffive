@@ -1,0 +1,123 @@
+# Transition from Tower to Town
+- We are sending a note back through the box
+	- with an image of the idol
+	- The note we got said: Helped Rantham. What idol?
+		- Helped Rantham
+			- This is a patron of the arts in Revenant
+- We are about to head back to town
+- We were in the tower for about 24 hours
+- We return to our horses and riding at about mid-afternoon
+- We stop to take a long rest
+- Overnight
+	- I take the first watch
+		- The idol has an aura of golden magic
+		- I can see it even though it is in a bag
+			- (rolled a 20)
+	- Lorien has the second watch
+		- (also rolled a 20)
+		- Sees nothing
+	- Cosimo
+		- Falls asleep and has some rations stolen
+	- Thranely
+		- Looking for the stolen rations
+		- Doesn't find anything
+	- Merkin
+		- Sees a faery dragon as it steals more of Cosimo's rations
+# Insect riding bandit encounter
+- Next morning, continue towards outwatch
+	- 2 hours out (out of 4) from town
+		- A man riding what seems like a large insectoid rides out in front of us
+		- Has some serious weapons that have clearly been used
+		- Behind us a group of bandits holding large bows pointing at us
+- Merkin is trying to talk up this guy
+	- He compliments his insect
+	- He's trying to lie to him about where we've been
+	- Merkin convinces the bandit leader to take 2 gold from 3 of our party to let us pass
+		- I refuse and try to intimidate
+		- Merkin convinces them to let us pass
+		- I'm pretty mad about not being able to fight, but we move on
+		- Merkin convinced them that were were lost in the woods for a long time even though we matched the description
+- We're taking it slow down the road with two members flanking in the forest
+	- We end up in a fight with the bandits
+	- Thrainli binds them up in grass, many fall of their horse
+	- We basically kick the shit out of the group and kill the leader and many try to run away
+	- I loot the corpse of the leader
+		- I find 12 gold plus the letter
+	- I take parts of the ankheg carapace to make into bracers
+- We try to interrogate the bandits we captured
+	- They say they were hired but don't have information
+	- They think a rich brat hired them
+- We send them back to Bobnut to work for him
+	- We call them the icicles
+- We also get a sketch of the person who hired the bandits
+# Returning to Town
+- We slowly make our way back to town
+- We start to see more people on the roads
+- No inns
+- We find an out of the way area to camp
+- Thrainli and Merkin head to camp to get stuff
+- Merkin comes back with a pearl
+	- Casts identify on the statue
+- Thrainli finds out the sketch is of the Baron's nephew
+## Statue Information (after identify)
+- Heavy, glowing
+- Holy statue
+- Very old
+- Doesn't match the gods we know
+- Goddess of healing and light
+	- Fae ish magic
+	- Seen through a distorted mirror
+- Get the feeling that this is an object designed to heal
+- Spell equivalent of something like greater heal
+	- Can probably be used once per day
+# Returning to talk to the Baron
+- As we go up the road toward the castle and knock on the gate we are greeted by a guard
+- 10 minutes pass and the gate is opened by the manservant who arranged everything
+- He asks if we were followed...we tell him they are dead
+- We hear a pair of feet dashing down the hallway
+	- It's the baron's nephew
+		- He asks us for the idol to give to his uncle
+		- We are refusing
+		- He orders us to give him whatever we were supposed to give to his uncle
+		- Nephews name is Claudius
+		- We pin down Claudius
+		- The guards come and decide to take us to the Baron to settle things
+- We get to the Baron's room with a person we assume is the Baron
+	- He's dressed in plate armor
+		- With the helmet
+	- Baron laboriously walks towards us
+	- Buzzing overtones to his voice
+	- I hand him the statue
+	- He asks who has the sack on his head
+	- We reveal it to be Claudius
+	- Manservant tells us to leave the guards
+		- He closes the door behind us
+- We follow the manservant and the Baron
+	- There is a room that is emptied out the middle
+	- And there is a ritual on the floor
+	- Various objects in a circle
+	- Baron puts the statue in the at a point in the circle and stands across from it
+	- Manservant picks up an old tome and starts to put together some ritual 
+	- Merkin helps to do the ritual since he knows healing magic better
+	- A deep pulsing sense of relief is felt and then magic is channeled into the Baron
+	- The Baron breathes deeply and looks perfectly normal and healthier
+	- Says he owes us a great debt
+	- We help him get the armor off
+	- He doesn't stick anymore
+	- Baron asks us to keep the info in confidence that we talk about
+		- Info
+			- Baron has been getting sicker and sicker
+			- Felt his body changing and bones shaping
+			- Felt like he was morphing rather than dying
+			- Baron will take care of the problem of his nephew
+		- We ask about Rantham
+			- We ask for an introduction
+			- We ask about other objects in the tower
+				- We don't get much information
+			- I ask if we can keep the idol
+				- Somewhat reluctant to give it us
+					- We can use it whenever we wish
+		- Rewards
+			- Manservant is to take us to the armory and we can pick one thing
+			- I take a hungering mace and pay to have it converted to a great axe
+			- 

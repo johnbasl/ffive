@@ -1,0 +1,101 @@
+---
+Session number: "15"
+Session Name: The Crucible - Part I
+Session date: 2025-10-15
+Locations:
+  - "[[The Crucible]]"
+---
+# Session Summary
+# Key Lore/Important Info
+# Loot
+# Encounters and Interactions
+## Aaracochera and Small Child Battle
+- A small child is trying to protect a group of aarakocra from an attack by the undead
+- Merkin, Thrainly, and Lorian attempted to sneak up and observe, but Lorian fell
+- So, I charge into battle
+- Battle events
+	- Merkin casts cloud of daggers onto a zombie to get things started
+		- He's been moving the cloud around on to the Zombie
+		- After I've been attacked badly, he casts healing spell on me
+		- Zombies are attacking him but keep missing
+		- He casts hypnotic pattern on a huge cluster of Zombies
+			- 
+	- Thrainli plans to use her arrow trick to stab me and transport me into battle
+		- She hits an undead near the child
+		- But, then she also has a nat 1 and has to hit me
+		- She transports me into battle
+		- Shoots at the large monster but misses twice
+		- Shoots the large undead and another Zombie and swaps them so the Zombie drops me and is teleported away
+	- Manchineel
+		- I cut an undead in half with my axe
+		- and impale another undead with the trident
+		- On my next attack while grappled by the large undead beast, I swing my hungering great axe dealing significant damage
+		- It has gone to attack Cosimo and is doing serious damage I charge it
+	- Cosimo casts Hunger of Hadar
+		- Large cloud spell
+		- Puts them in a sphere of darkness
+			- You can hear weird slurping noises from in the darkness
+			- Several escape but one dies inside, never emerging from the dark
+		- Attempts to Eldritch blast the large undead, but misses
+		- Eldritch blast connects twice to the large undead
+			- He then retreats but is swiped for 14 damage
+				- He is healed for 2 by the small child
+		- He is attacked and grappled by the large undead and casts and hits with a single blast
+	- The child
+		- Dressed in overalls and a tweedy shirt
+		- Young, lanky
+		- Holding a light up
+		- Holds up his hands and invokes the powers of light
+		- Casts a spell that causes a radius of light
+			- My weapons glimmer
+		- He himself has a bat with spikes in it
+		- Casts a spells that causes comfortable feelings but makes the undead recoil and run away in terror
+			- One zombie runs into the Hunger of Hadar
+		- Encourages us and heals a bunch of us
+		- Child yells "Apples"
+			- We here a giant thumping noise
+	- The large undead beast
+		- Kills a bunch of the aarakocra
+		- Disembowels a horse
+		- Screams and then moves away from the cloud of daggers that Merkin has put on him
+			- Takes a slash at the aarakocra
+			- Attacks me with a slash and it claws me and pulls me in
+		- After being teleported away, runs into Hunger of Hadar and then teleports to Thrainli and grapples her
+			- She escapes via teleport
+		- 
+	- Undead
+		- Attack me
+		- And the small child
+		- More undead appear from nowhere
+	- Lorian is attacking with a bow
+		- Takes down the Zombie I hit with the trident
+		- Takes down another zombie with an arrow through the neck
+		- Lorian is next to the large undead and disengages and runs to hide behind fleshy, shooting an arrow into the large undead
+	- Fleshy attacks a zombie
+		- Runs it over and slams into it
+	- Apples appears
+		- Giant labrador retriever
+			- Barking a deeply resonant noise
+		- Plows across the battle field
+		- Grabs the giant undead and drops the undead to the field
+		- It's a God/deity of the child
+		- It clears out the rest of the Zombies
+			- The child mounts the dog
+		- Heals the Aarakokra
+- Post Battle interactions
+	- I ask the child what just happened
+		- He heals the aarakocra
+		- He heals Cosimo
+		-He's babbling
+	- My name is "Max"
+		- High cleric of Apples
+		- Apples used to be his dog, but now it's his God
+	- Tells us how Apples became a God
+		- Helm, the God of protection, wanders the land and was in the area and some kids got attacked by bandits and Apples was with them and helped the kids, so Apples is a demi god of protection and protects the town
+	- Merkin asks how old Max's mom is....
+# Location and Travel Details
+- We are traveling upward into the mountains and on paved roads
+- We end up at the base of a switchback road that leads up to the Crucible
+- Half days ride
+- Very familiar to me
+- 

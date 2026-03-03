@@ -1,0 +1,1 @@
+https://mtg.fandom.com/wiki/Lorehold

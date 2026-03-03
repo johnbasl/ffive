@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("The F Five/Sessions")
+    order:
+      - file.name
+      - Session number
+      - Session date
+      - Locations
+    sort:
+      - property: Session number
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: Session date
+        direction: ASC
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.inFolder("Barb Campaign/Sessions")
+    order:
+      - file.name

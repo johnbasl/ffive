@@ -1,0 +1,23 @@
+# Recap
+- I was absent
+- We were in the tower
+- Jamee showed up with some fake dogs and rejoined the party
+- Lost the dogs
+- We napped in the long rest room and then took us to the next room
+- Next room had lava floors and some grotesque piles
+- I almost died but Merkin saved me
+- Solved a puzzle got a key
+- Next floor was a big giant
+	- Group rolled high
+- Teleported to the top and there were windows and doors
+- Found the idol
+	- Jade statue of a goddess
+	- hands out
+	- Floral crown on her head
+- Found a small gemstone
+	- Diamond sliced in half
+		- Clearly magic
+	- Forber has it
+- Area belonged to the pan dimensional problem solvers
+	- They used to occupy it
+- We teleported down to the entrance

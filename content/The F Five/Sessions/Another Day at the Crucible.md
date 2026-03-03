@@ -1,0 +1,171 @@
+---
+Session number: "17"
+Session Name: another day at the crucible
+Session date: 2025-11-13
+Locations:
+  - "[[The Crucible]]"
+---
+# Session Summary
+## We trail Karaptus
+- As we are returning to accommodations we spot someone following us. Manchineel, Lorian, and Thrainli stealthily follow
+	- Leads us to an inhabited student area
+		- They turn around to avoid the student area
+	- Walking by us we hear them mumble
+		- They are talking in an olden fashion that doesn't fit with common ways of talking
+	- I decide to yell Cassian at Thrainli's urging
+		- But, it turns out it was Karaptus
+- We decide to go tell Rajiv
+	- We knock on Rajiv's door
+		- He takes us to Chimamanda
+		- We try to tell him what we saw
+		- He sends more security to the vaults
+- We end up going to talk to the head of the Crucible
+	- She grills us about Karaptus
+	- Puts the Crucible on lockdown
+- We get sent to see if Cassian is still in the crypt
+	- She gives us some rocky-talkies to be able to communicate
+## Visiting the Crypt
+- Chimamanda leads us down past the vaults
+	- It is locked tight
+	- Someone hands out the rocky-talkies
+		- We can use the stones to cast sending
+- We head off the crypts
+	- We see some light and hear some grumbling
+		- Lorian sneaks up and sees Karaptus
+		- Karaptus is very upset that Cassian is dead
+			- Wonders what he will do without him
+			- What's the point of the undead army and evil without Cassian?
+		- He starts pushing the crypt of Cassian open and we hear a crash
+			- He emerges with Cassian's skull and is grabbing Cassian's bones and trinkets
+	- Lorian starts sprinting back and joins us and we start sprinting out
+		- We sense power growing behind us and there's crackling green energy
+		- He yells: "I'll be back" we hear an implosion
+		- We run in to Chimamanda
+- After awhile, people start coming up from the crypts and we chat with Chimamanda about what happens
+	- Lorian clues C in to what happened
+
+## Lorian to Visit Navakov
+- The area with the teleportation circle is in a very fortified area
+	- Guarded
+	- Lots of doors that can be blocked
+- Very magical teleportation circle, created by powerful magic users over the course of a year
+- Lorian arrives in Revenant
+	- Arrives at the Tyrants tower, center of government
+- Gathers some rumors about the city, hears nothing about [[Novikov]]
+- Proceeds to seek out Novikov
+	- In a basement office somewhere
+	- Knocks and the door is opened by a young red dragonborn
+		- [[Kathoran]]
+	- Kathoran lets Lorian investigate Novikov's desk
+- Novikov seems to be seeking out a place to the north
+	- Hall of the Heralds
+	- Lorian finds a document
+- Returns to the Crucible
+## Chatting with Researchers about the Gem
+- Thrainli and I head back to the vaults to figure out what the gem is
+- Chimamanda isn't there
+- Some assistants are very excited to see us to talk to us about the crystal
+- The space is full of magic stuff
+- The assistants don't know what the crystal is
+	- It isn't a diamond
+	- It is definitely magical
+	- It has conjuration magic attached it to it
+		- But not some kind that they are used to
+	- Very powerful
+	- The assistant puts it against the wall and it just sticks to the wall
+		- Thrainli hangs from 
+	- They've reversed engineered an activation code
+		- It can stick to some things
+	- When left there it gathers power as it remains attached
+		- Activation code is Arunda
+## Manchineel Experiment
+- We head to the research labs run by [[Samson Rockford]]
+	- Post the research on me, Samson's experiments were more shunned and they located their research area in a more out of the way area
+- Rajiv greets us
+	- Tells us he's largely set up and ready to go
+	- The lab is very familiar to me
+		- Where I lived for part of my time there
+- Center of the lab has a large runed circle with pylons with embedded crystals
+	- Pair of circles in the center
+- Samson orders me to come stand next to him
+	- I immediately do so
+	- Tells me to grab some shields
+	- Sends me to the inside and says to go stand in the left circle
+		- Then he walks around and examines me
+	- Tells me to enter rage
+		- I do so
+	- Says we are waiting on Archon
+	- Goal
+		- Take Manchineel and give some properties of a magic shield
+			- Enable me to be a channel for magic
+		- Turn Manchineel into a "Spellguard"
+	- Hypothesis that my rage might make it possible for me to survive this
+	- Magic is going to enter me and cause pain and then try to release
+		- Resist the release
+- Archon comes in
+- Samson begins the experiment
+	- Orders
+		- Stay still
+		- Stay in the circle
+		- Hold on to the magic
+		- Don't die
+- Samson and the other researchers begin chanting
+	- Manchineel can feel power swelling of power
+	- Arcs of magic start bouncing around, hitting me and the shield
+	- Asks people to help steady the pylons
+	- I keep getting hit with magic over and over it starts to cause pain
+	- After a crescendo, my mind starts to slip
+		- All of a sudden Karaptus emerges
+		- I react and step out of the circle
+			- And I'm immediately hit by a massive arc of power
+				- But I jump back into the circle
+		- I keep having delusions and stepping out of the circle
+		- I start to feel the power pressing in to me
+		- My skin is cracking and light starts pouring from the cracks
+			- I taste internal bleeding
+		- The pylons sink into the floor
+		- I can feel a connection between the shield
+		- Samson tells me to settle in and hold my rage
+			- Don't get too calm
+			- Don't get too angry
+			- Hold on to the calm and the rage
+		- All of a sudden I see myself in a boxed in space with runes
+			- I can go through if I can figure out what the runes mean
+				- I can't figure it out
+			- Given the trial, I'm exhausted
+		- After breaking through the door
+			- Samson appears before me with a wand crackling with magic
+				- Feels like a familiar context
+				- Starts to quiz me on facts and important things that I should know
+				- What kind of magic is conjuration
+					- Lorian helps me with the answer
+		- Then I see Raja
+			- My nemesis from childhood that made me kill a dog
+			- She orders me to do things and says she's in charge
+			- I feel like I'm 13 again
+		- The magic dissipates and Raja disappears
+		- Nikolai appears
+			- Nikolai is the friend I made after being told to kill him by Raja
+			- He is collapsed near the side of the circle, seemingly very injured
+		- I'm able to control my rage with the help from others
+		- I can start to feel the magic settling in to me
+		- Magic forms into a figure I don't recognize, but it tugs at my heart
+			- An older man in his 70's steps forward
+				- Nice outfit
+				- Motif of leaves
+				- Deep sadness in his eyes
+			- Calls my name
+				- Says Manchineel "don't go, come back"
+			- The old man unlocks a set of emotions that I don't know how to articulate
+		- The magic starts to settle into my skin
+		- The shield clatters
+		- I start to feel magical potential
+	- Samson comes to examine me
+	- I feel an empty spot in my chest that is waiting to be filled
+- I have the Spell Guard ability
+	- Goes away when I rage
+	- 
+# Key Lore/Important Info
+# Loot
+# Encounters and Interactions
+# Location and Travel Details

@@ -1,0 +1,3 @@
+- Finthir is promising reward for us to get back their wand
+- Fought a bunch of animals
+- Found a potion that has weird smell but not identifiable

@@ -1,0 +1,61 @@
+- Wrapping up at Finthir's house
+	- Potion of acid dragon breath
+	- Three healing potions
+	- Greater healing potion
+	- Potion of polymorph
+	- Fancy hat
+- Note from the Box
+	- "We're gathering allies, heading north"
+	- Coin was bent in half
+- In town
+	- Thranely and Cosimo
+		- Looking to sell shit
+	- Me and Merkin
+		- Find someone to take care of our house
+		- We sign a contract with Bobnut
+			- 1 gold per month to maintain the property
+- On the boat
+- Outwatch (town)
+	- Ships are collecting
+	- Ships are being attacked near the lighthouse
+	- Baron isn't doing anything
+		- We're going to see the Baron
+	- Not sure what's going on at the lighthouse
+		- The light blinks out for awhile in the middle of the night then comes back on
+	- Offered 200 gold each to solve this problem
+	- In chatting with Vox (captain)
+		- We are told to talk to Benji
+	- Talking to Benji
+		- His nephew was on the Green Lion (the captured ship)
+			- Benji junior
+		- Baron hasn't been seen
+		- We're going to talk to the baron
+	- At the Baron's keep
+- Ship journey to the island/lighthouse
+	- Take two ships
+		- Ship one: Vox's ship
+			- Me, Thranely, Lorian
+		- Ship two: Baron's ship
+			- Cosimo, Merkin
+	- A bird comes to our ship and says
+		- "I'm Lucian Skyhorn"
+	- A water elemental is attacking ship two
+	- We're going to head straight for shore
+	- We fight the Water Elemental in the water and get to shore
+		- We saved the drowning guards
+- We approach the lighthouse
+	- Space out front with a heavy door that is closed
+	- Lorian breaks in and comes down and hears people speaking at the bottom of the stairs
+		- Half people/half eels
+	- We fight some eel men in the bottom of the lighthouse
+	- Then we meet the lighthouse keeper, Lucian Skyhorn, who has been trapped for days
+		- Story of the lighthouse keeper
+			- Eel dudes came in and he sealed himself in
+				- Has kept the light going
+		- His family has been running the lighthouse for a long time
+			- It has been his job to keep things safe
+				- Built up a relationship with the town
+		- In the basement is an altar that allows for the summoning the water elemental
+			- If you fuck up the summoning, the elemental will turn on you
+	- Eels in the basement
+		- 

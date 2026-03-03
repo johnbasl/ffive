@@ -1,0 +1,37 @@
+- Finishing up underneath the lighthouse
+	- We use some eel people as chum to fill up the sharks and then we grapple to the docks underneath the lighthouse
+	- On the beach are some chests and the green lion is there bouncing around
+	- We are listening to the door and hear some eel people
+	- We barge in
+- After the encounter with Scourge
+	- Searching around for items
+		- Shark skin armor
+			- Two getting worn
+			- We take one to sell
+	- Lucian dismisses the angry water elemental
+		- Summons another
+	- We release Aaron Hest(?) and all the sailors
+	- Ship gets reloaded with the loot from the Green Lion
+- We do some drunken revelry
+	- I woke in my bed and have legally changed my name to Dick Merkin
+	- At 3am: Knock on the door
+	- Baron wants to meet
+- We filter through town and meet the figure at another inn
+- An older man is dressed in full plate: The Baron
+	- 60s
+	- Wrinkled
+	- Gray beard
+- Merkin tells the tale
+- Baron asks for help from the Frosty Five
+	- Has a job
+	- Needs us to be discrete
+	- Story
+		- There is a tower two days travel from here
+		- Used by a wizard that collected odd and strange arcane items from across the realms
+		- Idol in the tower that he wants
+		- Baron will reward
+			- Reward
+				- Choice from the armory
+	- Hands us a map with directions to the tower
+	- Get the idol and return to town and get in touch with manservant: Janis
+	- Very important to be quick

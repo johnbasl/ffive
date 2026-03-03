@@ -1,0 +1,166 @@
+# Leaving the Baron's
+- Mid-afternoon
+	- Emerge into a quiet town
+		- Most people move on
+	- We're deciding to move on to Roam and then crucible
+- Late afternoon
+	- We're leaving
+	- Takes four hours to cross
+		- Cost: 12 silver
+	- Arrive on the other shore in evening
+	- Small settlement
+		- Inns
+		- Some shops
+	- We sleep overnight at the Inn on the other shore
+		- Awaken early and prepare to set out
+	- Several of us have been to Roam
+		- It is relatively mundane
+		- Pretty easy to locate
+		- Roam doesn't steer, but it is well tracked
+# The Road to Roam
+- Can stay at Inns along the way or stay on the camp
+- During the journey I'm called over by a wizard women
+## Alcazari
+- Alcazari
+	- She's on a crucible mission
+	- Wants to take back Manchineel
+	- Needs his help for a mission
+	- Offers to buy us a drink
+	- What she needs
+		- Explains the crucible having an archive and having magic items
+		- Breach in security a few weeks ago
+		- A few items were taken
+		- A note was left
+		- Suggests that the items might be half a days travel from there
+			- Three weapons were taken
+				- Wave
+					- Trident
+					- Something about fish/sea oriented
+				- Whelm
+				- Black Razor
+			- The contents of the note
+				- Search ye far or search ye near, you'll find not trace of the 3
+				- Unless you follow instructions, clear, for the weapons lie with me
+				- ![[Pasted image 20250701192050.png]]
+# Mission with Alcazari
+- Go to small region called the White Plumes
+	- Volcanic activity that leads to geisers
+	- One is a large mound
+	- Guessing that white plume is the large mound
+	- Historically
+		- A powerful wizard disappeared there
+			- Karaptus
+				- The signature on the note was "K"
+				- Karaptus may have slowly enslaved a valley of people
+					- History of Karaptus
+						- Had an army of gnomes
+						- He died a couple hundred years ago
+	- My orders
+		- Get the weapons
+		- Bring them back to Alcazari
+		- Can do whatever to get the weapons
+			- Kill whomever you need to get the weapons
+		- Puts Merkin in charge while we are out
+## White Plume
+- We find a hollow way in the tallest plume
+	- It's very old and badly maintained
+	- Spiral staircase leading down in the dark
+		- Metal stairs
+		- Sturdy but rusted
+	- Climbing down
+		- Merkin
+		- Me
+		- Lorian
+		- Cos
+		- Thran
+	- Sulfur smell
+	- We go down about a hundred feet
+	- We step into some merky tepid water
+	- Corridor extends and turn to the left
+	- Slowly walk towards the turn in the corridor
+	- Go around the corridor
+		- Can't tell how far it goes
+			- 3 paths
+			- At the intersection there is a living mound
+	- Merkin goes to talk the mound
+		- Arrives at a force field
+		- A gynosphynx appears
+			- Atop a pile of bones
+			- Says "halt travelers...you must answer a riddle"
+				- We get the riddle correct
+- Three paths
+	- Straight Path
+		- Halfway down the corridor we see an opening space
+			- Water is deep
+				- About 10 feet
+		- Merkin casts a dancing lights spell in the water
+			- We see a valve
+		- We go to the chamber at the end
+			- The space ahead is a large rectangular space
+			- Water covers entire floor
+			- On the other side set of stairs
+			- The water is deeper than it looks
+			- Forber notices the torso of a beautiful woman that starts to beckon him
+				- Forber starts to walk towards
+			- They try to charm Merkin but they fail
+				- Merkin tells us to keep an eye on Forber
+			- I open the valve and water starts to slowly drain
+			- We retreat from the middle path while the water drains
+	- Left path
+		- Metal Corridor
+			- We go down the corridor and there is one spot of ten feet length in the middle that has deep water
+			- I am ordered to push Forber in and do so
+			- He eldritch blasts Forber
+			- We get to another corridor with lots of copper plates along the side
+				- Forber and Lorian figure out that it will heat up the metal
+			- I toss an axe and it makes it across but very hot
+			- I walk across without my armor and have tossed my trident there
+			- Fight
+				- We fight a group of ghouls
+				- We are separated across the corridor
+			- There's a set of stairs at the end
+				- The ghouls had amulets on them
+					- Each is inscribed with some magical thing
+						- Forber determines that it prevents the undead from being turned
+		- Stairs and Slippery Corridor
+			- We go up the stairs and above the water line
+				- 10 foot wide corridor
+				- There is a gap in the floor about five foot wide
+				- The other side has mirror-y looking flooring
+				- I toss an axe and it is slippery
+				- We make it across
+			- Door on the wall
+		- Corridor and T-Junction
+			- To the left
+				- Ends 10 feet away and a door
+			- to the right
+				- 20 feet away and another door
+		- Door on the right
+			- Door opens
+			- Large square room
+				- Two features that dominate the room
+				- 6 canoes
+					- 3 on each side lined up
+				- River running through the room
+					- Floating
+				- We put the canoe in the water and it shoots down the water
+					- In a two minute loop
+			- We put Forber and Wang into the canoe and send them through
+				- They burst into a new space with a ton of light
+					- Forber and Wang get pulled down by some people with nets
+						- Humanoid figures
+							- Four Knights
+							- Fifth figure on the far side of the room
+				- I toss Merkin and Thrainly into a boat and toss them in before I jump in behind them with my trident
+			- After the battle we loot the bodies
+				- They have plate armor
+				- Leader has an awesome battle axe
+				- Has magical boots
+				- Also carrying a key
+### Sphynx Riddle
+- Round she is, yet flat as a board
+- Altar to the even lords
+- Jewel on black velvet, pearl in the sea
+- Unchanged but ever changing eternally
+- Answer: Moon
+	- Correct

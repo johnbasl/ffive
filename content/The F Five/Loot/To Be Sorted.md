@@ -1,0 +1,17 @@
+# From Esoterica
+- Bottle of magic ink
+	- Obscures messages from those in power
+- Spinning eye vial
+	- If you eat it, you can read any language for 24 hours
+	- And see through a foot of wall
+- Weird liquid vial with viscous liquid
+	- No idea what it is
+	- Some kind of poison
+		- We use it to kill a brain
+- Tome of Eternal Life
+- Cassian Armitage brain jar
+- Cursed Spellbook
+	- Reading it, it thirsts for your blood and does damage but it has spells we can use like scrolls
+- 2000 GP worth of precious stones
+- Piece of paper that reads
+	- 

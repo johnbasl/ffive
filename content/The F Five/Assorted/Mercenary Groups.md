@@ -1,0 +1,13 @@
+- Mercenaries tend to focus on two things
+	- Queen's Rest
+		- Near the Crucible
+		- Dungeon where people delve for treasures
+			- Ancient queen was laid to rest
+			- Powerful spells that randomize a dungeon
+			- People try to steal from the tomb
+			- Basically a tourist attraction
+	- The Crowned Round (The Crowned)
+		- Arena run by a (rumored) mad king
+		- Lots of mercenaries go there to face challenges for awards
+- No formal mercenary guild
+- 

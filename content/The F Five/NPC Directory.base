@@ -1,0 +1,20 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("The F Five/People/NPC")
+    order:
+      - file.name
+      - relationship
+      - Location
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: location
+        direction: ASC

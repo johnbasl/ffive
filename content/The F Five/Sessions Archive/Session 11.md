@@ -1,0 +1,152 @@
+# Catch up from last session
+- Found a cave ziggurat area
+- Found a disguised gnome that turned into a demon that started a fight with us
+- Sword was in the room and we fought the demon
+- I killed it with a trident in the heart
+- Jamie found a scroll that produced a magical shield
+- Forber found Black Razor on accident
+- We end up back to the starting point
+- We went to fight the sirens and fought them and got one room past the sirens
+# Post Sirens
+- Long hallway with a set of doors
+	- Heavy door
+	- weird features on the door
+		- no knob
+		- Seems to push in
+- Door to the right that is smaller
+- We opt for the door on the right
+- Opens onto a round tunnel that is rotating around
+	- Has a strange pattern of black and white and is glistening
+	- Hallway turns
+	- Forber ignites the floor
+- I go to open the other door
+	- The door swings open
+	- Has a weird locking flange
+	- Seems like a pressure chamber
+	- Series of three doors
+	- After the doors there is a blue shimmery light and we are hit with dampness and low temp
+# The Boiling Bubble
+- In the tunnel after the doors, we find a tunnel with boiling water (think Jaws 3d)
+- We see something moving in the tunnel
+- The bubble is made of something balloon like and we could pop it
+- Forber is going in after casting invisibility
+- Sees a giant crab and there's a chest behind it
+## I know something about Wave from the Crucible
+- It is kept in the archive vault for a reason
+	- +3 weapon
+	- Can do some strong things when attuned
+	- Reputation isn't as dark
+	- Last people who wielded it all disappeared it
+	- Requires dedication to a particular Ocean god to attune to it
+## Crab Fight
+- Crab is immune to
+	- Charmed
+	- Frightened
+	- Paralyzed
+- Forber is grabbing the trident and looting the chest
+	- He can feel the power of the trident
+		- It makes an offer and it feels familiar
+- Crab knocks out both Thrainly and Cosimo
+- Lorian takes it down
+- Booming, evil laughter
+	- "Seems you passed the second test....see you at the third"
+## Loot
+- We get about 500 gold each
+- We find some goggles with some runes on them
+- Collect ten copper bands from the crabs legs
+- We find goggle of the night
+	- Give them to Lorian
+# Side Corridor
+- Spinning hallway is no longer on fire
+- We get through the corridor and there is an opulent room
+- Mosaics depicting natural scenes
+- A lavish bed
+- Candies
+- Large heavy chest in one corner of the room
+- The room wraps around
+- I open the chest
+	- Scattering of coins
+	- but I hear a click
+	- I drop the lid of the chest
+		- Start losing my vision in the area
+## Loot from the lavish room
+- I take the candy
+
+# Back to the starting point
+- Start down the third direction of the three way split
+- Corridor is very damp
+- We see slime that is moving down the corridor only because it is empty of water
+	- Lorian sets it on fire
+- We encounter a heavy wooden door on the left path
+	- There is a 30x30 room
+	- Far side has another door
+	- Scattered around the room are 5 flesh golems
+		- Each has a number on its chest
+		- One of us does not belong with the others
+			- If you get it right you can control it and we'll give safe passage
+			- 5, 7, 9, 11, 13
+		- Door on the far side clicks open
+- Door on the far side
+	- There's a turnstyle
+		- We all go through
+	- We climb some stairs and find a heavy door bound in iron
+- We're in the midst of a vampire fight
+	- I tore a sconce off the wall and can move around with a torch
+	- Lorian did the same
+	- Thrainly gets a heal and is in the coffin
+	- Thrainly runs into Fleshy and gets hit in the dark and is down again
+	- We retreat after Thrainley's death down the hall
+	- Back to the room with the floating disks
+- We are back to the crossroads
+	- Lorian has a large dwarven hammer
+	- Exudes coldness
+- We go into a room that we haven't been to before
+	- 9 globes with different color smoke
+	- We smash the white one
+		- We find a key and a scroll
+			- Scroll of fear
+	- Smash the black one
+		- Two objects fall down
+			- Key and a silver ring
+				- Ring says
+					- I confer
+						- Invisibility
+						- Haste
+						- Immunity to charm
+						- Detect magic
+						- Fly once per day
+						- Wish
+						- Protection ring
+						- Spell turning ring
+					- We leave the room the ring stops working
+	- Smash blue globe
+		- It drops gems
+			- They are glass
+	- Smash all the rest
+		- Merkin does plays a note that cracks all of them
+		- And air elemental descends
+		- I grab scroll
+			- Hold person
+			- Give it to Forber
+		- Merkin grabs a potion
+			- Potion of flying
+	- Thrainly has become a vampire
+- Start retreating back down the hall and get back to the sphynx
+	- The sphynx solves the riddle
+	- But then a bearded man appears
+	- Wearing black Eldrich cloak
+		- Magical Aura
+# Battle with Karaptus
+- He asks who we are
+- We are talking with Karaptus
+	- He's very confused
+	- And then he disappears
+- We get ejected from a geyser and land hard on the ground
+- We are outside where we started
+
+# Meeting back with Alcazari
+- My character is confused about who is in charge
+- Alcazarri is apprentice
+	- Apprentice to To be named Unknown person
+		- Specializes in abjuration
+	- Pretty senior apprentice

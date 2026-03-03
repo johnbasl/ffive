@@ -1,0 +1,79 @@
+# Background Notes
+- Traveling down river with a merchant ship
+- Box let's us send messages once per day
+- Heading to Crucible
+	- Seeking training/aide/help
+
+# Session Notes
+- Background
+	- Boat Crewed by Knox
+	- Hired as Guards
+	- Got a big fish
+	- Reports of bandits
+- Awaken to a halted boat
+	- Knox is yelling at someone off the side
+	- Boat is blocked by some being
+		- Tree with a sphynx on top
+			- Riddle for the group
+				- Riddle 1
+					- What always runs but never walks
+					- Often murmers never talks
+					- Has a bed but never sleeps
+					- Has a mouth but never eats
+				- Riddle 2
+					- What does man love more than life
+					- Fear more than death or mortal strife
+					- Poor ___  and rich require
+					- Miser's spend and spendthrifts save
+				- Riddle 3
+					- Invented it doesn't want it
+					- bought doesn't need it
+					- needs it doesn't know it
+						- Answer: 
+- Background about the route
+	- Bandits
+	- Weird stuff in the forest
+		- Hard to predict
+	- Well traveled route
+- During Watch
+	- Lorian and Thranely notice some orange glowing firefly things
+- Midafternoon of the fourth day of travel
+	- Abrupt halt that shakes the ship
+	- Knox is swearing
+	- Large strange on the side of the river
+		- Half armored
+		- Your money or life let's go
+	- We win the bandit encounter
+		- Lorian snipes 3 of these fools
+		- Forber Eldritch blasts the leader
+	- Earn Knox's trust
+- At a trading post after bandit fight
+	- Rumors in the town
+		- An inn suddenly shifted sides of the river
+	- Word of some hags up river
+- Downriver to stay at an Inn
+	- The Inn is called the ship
+	- Giant full sized galleon crossing the entire river
+		- Hollowed under for boats to pass through
+	- Drunken encounters on ship
+- After a couple of days arrive at the lake
+	- We pull over to one side to wait
+	- After waiting, short elf arrives (Volaris)
+		- Has large wooden discs
+		- Knox buys a 3-day pass
+			- Keeps away the cracken
+- Pull up to Ingrahm
+	- On the shore
+	- Lots of ports
+	- Trading town
+	- We have 24 hours to ourselves
+	- A sheep comes up to us with a scroll
+		- Spell scroll of speak with animals
+	- Forber casts spell and it works on all of us
+		- Sheep
+			- Finthia Shinebright
+				- Turned into the sheep
+					- By wand of polymorph
+	- Two cloaked figures and some wolves
+		- Asks for the pet back
+		- 

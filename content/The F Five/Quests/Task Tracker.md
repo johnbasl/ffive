@@ -1,0 +1,5 @@
+- Find the Tiefling
+	- Context: Part of my mission letter from O
+- Baron's Quest
+	- Looking for an idol of a woman
+	- 
